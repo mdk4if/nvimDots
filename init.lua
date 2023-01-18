@@ -1,0 +1,7 @@
+require "options"
+require "keymaps"
+require "plugins"
+require "colorscheme"
+require "treesitter"
+require "lualineConfig.lualine"
+require "lsp"
